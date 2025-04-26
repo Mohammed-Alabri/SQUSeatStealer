@@ -52,6 +52,11 @@ It monitors the course seat availability in real time and instantly registers th
 3. Click **Register**.
 4. The app will continuously monitor the course and automatically register when a seat becomes available.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/d14283f1-265f-4c02-8356-f4a1ba28cc18)
+
+
 ## Code Overview
 
 - **`main_en.py`**: English GUI interface for seat monitoring and auto-registration.
