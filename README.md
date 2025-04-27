@@ -1,6 +1,6 @@
 # SQUSeatStealer
 
-**SQUSeatStealer** is a Python desktop application that automates the process of quickly enrolling in full or nearly full courses at **Sultan Qaboos University (SQU)**.  
+**SQUSeatStealer** is a Python desktop application that automates the process of quickly enrolling in full courses at **Sultan Qaboos University (SQU)**.  
 It monitors the course seat availability in real time and instantly registers the course when a seat becomes available.
 
 > **Important Note:**: Since the university website has been changed and updated, this tool no longer works.
